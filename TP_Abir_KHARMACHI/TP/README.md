@@ -8,11 +8,16 @@ ETAPE 5:
 -Modèle : le modèle contient les informations (données) utilisées par le système.
 -Vue : la vue est la façon dont ces informations sont affichées pour l’utilisateur.
 -Contrôleur : le contrôleur veille à ce que les demandes de l'utilisateur soient correctement exécutées, en modifiant les objets du modèle et en mettant à jour la vue.
+
 2-Spring Data Jpa (spring-boot-starter-data-jpa):
 Facilite l'intégration de Java Persistence API (JPA) pour gérer les bases de données relationnelles dans les applications Spring, permettant une gestion robuste des entités et une réduction de la quantité de code boilerplate nécessaire pour le modèle de données.
-3-Hibernate : Hibernate est un composant très important dans les applications java qui sont basés sur les bases de données relationnelles. Il contient l'ORM qui sert à la conversion des data entre des systèmes multiples de POO avec des types différents. De plus il est le responsable sur la signalisation des entités Java (@Entity) et les annotation du mapping .
+
+3-Hibernate : Hibernate est un composant très important dans les applications java qui sont basés sur les bases de données relationnelles. Il contient l'ORM qui sert à la conversion des data entre des systèmes multiples de POO avec des types différents. De plus il est le responsable sur la signalisation des entités Java (@Entity) et les annotation du mapping.
+
 4-H2 : est un système de gestion des bases de données très rapide et compatible avec le développement en Java.Il permet de manipuler, query et la création des bases de données purement dans la mémoire, ce qui améliore l’accès) la base de données dans les différentes étapes du développement.
+
 5-Devtools: est l'une des dépendances vitales dans un projet spring. Elle représente une partie de l'écosystème du spring boot qui contient un ensemble des 'tools' de développement
+
 6-Thymeleaf: Thymeleaf est un moteur de template polyvalent capable de produire  du XML, du XHTML et de l'HTML5. Conçu à l'origine pour être utilisé dans des environnements web, Thymeleaf offre la possibilité d'être employé aussi bien dans des contextes web que non web. Son objectif principal demeure la génération de vues dans le cadre d'applications web reposant sur le modèle MVC.
 
 ETAPE 13 :
